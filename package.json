@@ -1,0 +1,15 @@
+{
+  "name": "com.zvasya.easing_bezier",
+  "displayName": "Utility - Easing",
+  "version": "0.8.0",
+  "unity": "2019.4",
+  "description": "Easing functions for Unity",
+  "author": {
+    "name": "zvasya",
+    "email": "vasya.k121@gmail.com",
+    "url": "https://github.com/zvasya"
+  },
+  "keywords": ["Easing"],
+  "dependencies": {
+  }
+}
